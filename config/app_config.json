@@ -1,0 +1,13 @@
+{
+  "template_path": "input/template/员工信息（市城规总院）2.xlsx",
+  "data_path": "input/data/员工信息（市城规总院）.xlsx",
+  "sheet_name": "auto",
+  "header_rows": [1, 2],
+  "sample_row": 3,
+  "output": {
+    "data_dir": "output/data",
+    "template_dir": "output/template",
+    "data_prefix": "output",
+    "template_prefix": "填写模板"
+  }
+}
